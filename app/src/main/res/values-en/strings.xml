@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peak and plate</string>
+    <string name="inicio">HOME</string>
+    <string name="horario">Restriction from 7:30 am to 7:00 pm</string>
+    <string name="su_placa">" Your Badge is:  "</string>
+    <string name="proximo">Next day of Peak and Plate</string>
+    <string name="configuracion">CONFIGURATION</string>
+    <string name="acerca_de">ABOUT</string>
+    <string name="HOY_SI">YOU HAVE PEAK AND PLATE TODAY</string>
+    <string name="HOY_NO">TODAY YOU DO NOT HAVE PEAK AND PLATE</string>
+</resources>
